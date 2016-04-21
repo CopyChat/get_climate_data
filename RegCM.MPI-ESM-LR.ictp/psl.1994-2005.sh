@@ -1,0 +1,13 @@
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_199312010600-199412010000.nc
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_199412010600-199512010000.nc
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_199512010600-199612010000.nc
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_199612010600-199712010000.nc
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_199712010600-199812010000.nc
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_199812010600-199912010000.nc
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_199912010600-200012010000.nc
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_200012010600-200112010000.nc
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_200112010600-200212010000.nc
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_200212010600-200312010000.nc
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_200312010600-200412010000.nc
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_200412010600-200512010000.nc
+wget -c http://clima-dods.ictp.it/Data/RegCM_Data/HadGEM2/RF/psl/psl_6hrPlev_HadGEM2-ES_historical_r1i1p1_200512010000.nc
